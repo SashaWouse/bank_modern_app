@@ -15,8 +15,11 @@ const Navbar = () => {
             <a href={`#${nav.id}`}>{nav.title}</a>
           </li>
         ))}
-
       </ul>
+
+      <div className="sm:hidden flex-1 justify-end items-center">
+        
+      </div>
 
     </nav>
   )
