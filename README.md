@@ -2,7 +2,7 @@
 
 Modern bank application
 
-# Features
+## Features
 
 1. React JS
 2. [Tailwindcss](https://tailwindcss.com)
