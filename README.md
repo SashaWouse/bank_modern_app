@@ -4,6 +4,6 @@ Modern bank application
 
 ## Features
 
-1. React JS
+1. ReactJs
 2. [Tailwindcss](https://tailwindcss.com)
-3. [Vite](https://vitejs.dev)
+3. [ViteJs](https://vitejs.dev)
