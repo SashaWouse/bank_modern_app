@@ -107,6 +107,18 @@
   }
 }
 
+.button {
+  outline: none;
+  border: 2px solid transparent;
+  border-radius: 10px;
+}
+
+.button:hover {
+  color: #ffffff;
+  border: 2px solid #fff;
+  background: var(--black-gradient);
+}
+
 .feature-card:hover {
   background: var(--black-gradient);
   box-shadow: var(--card-shadow);

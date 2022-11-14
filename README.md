@@ -1,6 +1,6 @@
 # Modern bank application
 
-Modern bank application
+Modern bank webapplication with mobilefriendly design.
 
 ## Features
 

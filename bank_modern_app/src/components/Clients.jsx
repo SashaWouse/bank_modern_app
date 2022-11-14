@@ -5,7 +5,7 @@ const Clients = () => (
     <section className={`${styles.flexCenter} my-4`}>
       <div className={`${styles.flexCenter} flex-wrap w-full`}>
         {clients.map((client) => (
-          <div key={client.id} className={`flex-1 ${styles.flexCenter} sm:min-w-[192px] min-w-[120px] p-4 rounded-[6px] clients-bg`}>
+          <div key={client.id} className={`flex-1 ${styles.flexCenter} sm:min-w-[192px] min-w-[120px] p-4 rounded-[20px] clients-bg`}>
             <img src={client.logo} alt="client" className="sm:w-[192px] w-[100px] h-[48px] object-contain"/>
           </div>
         ))}
